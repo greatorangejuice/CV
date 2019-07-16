@@ -31,8 +31,8 @@ Tools: GIT, Webpack, VS Code,  Webstorm
 
 ### Community Lab, 03.2019 - now
 * Position: Frontend-developer
-* Project: https://develop--learjs-game.netlify.com/ (in progress)
-* https://github.com/rss-com-lab/learnJs-game
+* Project: [https://develop--learjs-game.netlify.com/] (in progress)
+* [https://github.com/rss-com-lab/learnJs-game]
 * Responsibilities included:
    * estimations
    * implement features
@@ -42,7 +42,7 @@ Tools: GIT, Webpack, VS Code,  Webstorm
 ## Experience
 
 ### Piskel-Clone app
-* Project: (https://greatorangejuice.github.io/piskel-clone/)
+* Project: [https://greatorangejuice.github.io/piskel-clone/]
 * Environment: HTML, CSS, JavaScript,  Webpack
 
 ### Youtube client
