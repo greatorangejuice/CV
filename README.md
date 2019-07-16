@@ -42,14 +42,14 @@ Tools: GIT, Webpack, VS Code,  Webstorm
 ## Experience
 
 ### Piskel-Clone app
-Project: https://greatorangejuice.github.io/piskel-clone/
-Environment: HTML, CSS, JavaScript,  Webpack
+* Project: (https://greatorangejuice.github.io/piskel-clone/)
+* Environment: HTML, CSS, JavaScript,  Webpack
 
 ### Youtube client
-Project: https://greatorangejuice.github.io/youtubeBuild/
-Environment: HTML, CSS, JavaScript, Webpack
-Pattern: MVC
+* Project: https://greatorangejuice.github.io/youtubeBuild/
+* Environment: HTML, CSS, JavaScript, Webpack
+* Pattern: MVC
 
 ### Tasks on CodeWars
-Link: https://www.codewars.com/users/greatorangejuice/completed_solutions
+* Link: https://www.codewars.com/users/greatorangejuice/completed_solutions
 
