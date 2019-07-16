@@ -15,7 +15,6 @@ Junior Frontend-developer with technical education. Confident knowledge of HTML,
 
 ## Technical Skills
 * Programming languages and technologies: JavaScript, HTML, CSS/SCSS
-* Programming practices:Code review
 * Frameworks and Libraries: Angular, Bootstrap
 * Tools: GIT, Webpack, VS Code,  Webstorm
 
