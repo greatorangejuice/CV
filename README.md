@@ -18,13 +18,7 @@ Junior Frontend-developer with technical education. Confident knowledge of HTML,
 * Programming languages and technologies: JavaScript, HTML, CSS/SCSS
 * Frameworks and Libraries: Angular, Bootstrap
 * Tools: GIT, Webpack, VS Code,  Webstorm
-
-## Soft Skills
-* I am really open person and I have expirence working in a team like a engineer-constructor.
-* English level: *Pre-Intermediate*. 
-    * Graduated English courses.
-    * I have good experience with native speakers.
-    
+  
 ## Professional Experience
 ### Elinext, 03.2019 - now
 * Position: Frontend-developer
