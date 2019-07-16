@@ -2,6 +2,7 @@
 **Minsk, Belarus**
  * **Phone number:** +375(29)1328505 Viber/Telegram - *prefere*
  * **email:** bypavelsnigirev@gmail.com
+ * **LinkedIn:** [https://www.linkedin.com/in/pavel-snigirev-5b5a91154/](https://www.linkedin.com/in/pavel-snigirev-5b5a91154/)
 
 ## Education
 Belarussian State University of Informatics and Radioelectronics from 2018. 
