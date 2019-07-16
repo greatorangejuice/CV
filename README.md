@@ -8,51 +8,48 @@ Belarussian State University of Informatics and Radioelectronics from 2018.
 Master of Technical Scinces.
 Faculty: Computer Aided Design.
 
-## Summary 
-When I studied at university, I needed more creative work. And so I had a small business. I created small websites using HTML, CSS and simple decisions on PHP for my customers and helped them with some settings and with others promblems which deal with IT. I hope that my websites are still working.
-It was not serious for me, but not today. I have been stadying JavaScript for 4 month. I am using next resources:
-1. *learn.javascript.ru*
-2. *mdn.mozilla.com*
-3. *habr.com*
-4. *codewars.com*
-5. David McFarland "Big CSS book"
+The Rolling Scopes School 2019q1 (https://rs.school/js/index.html)
+ 
+## Summary of Qualifications 	
+Novice frontend-developer with technical education. Confident knowledge of HTML, CSS/SCSS, JavaScript.
 
-## Skills 
-* JavaScript
-    * ES5 & ES6
-* HTML5 and CSS3
-* Photoshop (basic)
-* Sony Vegas
-* Borland Delphi (labs at University)
+## Technical Skills
+Programming languages and technologies: JavaScript, HTML, CSS/SCSS
+Programming practices:Code review
+Frameworks and Libraries: Angular, Bootstrap
+Tools: GIT, Webpack, VS Code,  Webstorm
 
 ## Soft Skills
 * I am really open person and I have expirence working in a team like a engineer-constructor.
 * English level: *Pre-Intermediate*. 
     * Graduated English courses.
-    * I have good experience with native speakers. I have a native friend. He lives in Minsk. And I like to travel and thanks for that I have more English experience.
+    * I have good experience with native speakers.
+    
+## Professional Experience
+### Elinext, 03.2019 - now
+* Position: Frontend-developer
+
+### Community Lab, 03.2019 - now
+* Position: Frontend-developer
+* Project: https://develop--learjs-game.netlify.com/ (in progress)
+* https://github.com/rss-com-lab/learnJs-game
+* Responsibilities included:
+   * estimations
+   * implement features
+   * refactorings
+   * backlog grooming
 
 ## Experience
-### Login Page on Ionic framework (HTML/CSS)
-[GitHub](https://github.com/greatorangejuice/ionic-page/tree/master/src/app/home)
+
+### Piskel-Clone app
+Project: https://greatorangejuice.github.io/piskel-clone/
+Environment: HTML, CSS, JavaScript,  Webpack
+
+### Youtube client
+Project: https://greatorangejuice.github.io/youtubeBuild/
+Environment: HTML, CSS, JavaScript, Webpack
+Pattern: MVC
+
 ### Tasks on CodeWars
-[CodeWars](https://www.codewars.com/users/greatorangejuice/completed_solutions)
-### Small Kata from CodeWars
-```javascript
-const sortByLength = (array) => {
-    let result = [];
-    for (let i = 0; i < array.length; i++) {
-        let minSizeItem = array.reduce((last, item) => {
-            if(last.length < item.length) {
-                return last;
-            } else {
-                last = item;
-                return last;
-            }
-        });
-    let index = array.indexOf(minSizeItem);
-    result.push(minSizeItem);
-    delete array[index];
-    }
-  return result;
-}
-```
+Link: https://www.codewars.com/users/greatorangejuice/completed_solutions
+
