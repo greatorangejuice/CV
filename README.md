@@ -11,13 +11,13 @@ Faculty: Computer Aided Design.
 The Rolling Scopes School 2019q1 [https://rs.school/js/index.html](https://rs.school/js/index.html)
  
 ## Summary of Qualifications 	
-Junior frontend-developer with technical education. Confident knowledge of HTML, CSS, JavaScript.
+Junior Frontend-developer with technical education. Confident knowledge of HTML, CSS, JavaScript.
 
 ## Technical Skills
-Programming languages and technologies: JavaScript, HTML, CSS/SCSS
-Programming practices:Code review
-Frameworks and Libraries: Angular, Bootstrap
-Tools: GIT, Webpack, VS Code,  Webstorm
+* Programming languages and technologies: JavaScript, HTML, CSS/SCSS
+* Programming practices:Code review
+* Frameworks and Libraries: Angular, Bootstrap
+* Tools: GIT, Webpack, VS Code,  Webstorm
 
 ## Soft Skills
 * I am really open person and I have expirence working in a team like a engineer-constructor.
