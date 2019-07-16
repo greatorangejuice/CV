@@ -11,7 +11,7 @@ Faculty: Computer Aided Design.
 The Rolling Scopes School 2019q1 [https://rs.school/js/index.html](https://rs.school/js/index.html)
  
 ## Summary of Qualifications 	
-Novice frontend-developer with technical education. Confident knowledge of HTML, CSS/SCSS, JavaScript.
+Junior frontend-developer with technical education. Confident knowledge of HTML, CSS, JavaScript.
 
 ## Technical Skills
 Programming languages and technologies: JavaScript, HTML, CSS/SCSS
