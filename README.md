@@ -10,7 +10,7 @@ Master of Technical Scinces.
 Faculty: Computer Aided Design.
 
 The Rolling Scopes School 2019q1 [https://rs.school/js/index.html](https://rs.school/js/index.html)
-[Certificate](https://app.rs.school/certificate/qf0u8sh7)
+* Certificate: [https://app.rs.school/certificate/qf0u8sh7](https://app.rs.school/certificate/qf0u8sh7)
 
 ## Summary of Qualifications 	
 Junior Frontend-developer with technical education. Confident knowledge of HTML, CSS, JavaScript, Angular.
