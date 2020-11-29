@@ -10,39 +10,44 @@ Master of Technical Scinces.
 Faculty: Computer Aided Design.
 
 The Rolling Scopes School 2019q1 [https://rs.school/js/index.html](https://rs.school/js/index.html)
- 
+[Certificate](https://app.rs.school/certificate/qf0u8sh7)
+
 ## Summary of Qualifications 	
-Junior Frontend-developer with technical education. Confident knowledge of HTML, CSS, JavaScript.
+Junior Frontend-developer with technical education. Confident knowledge of HTML, CSS, JavaScript, Angular.
 
 ## Technical Skills
 * Programming languages and technologies: JavaScript, HTML, CSS/SCSS
 * Frameworks and Libraries: Angular, Bootstrap
-* Tools: GIT, Webpack, VS Code,  Webstorm
+* Tools: GIT, Webpack, Docker
   
 ## Professional Experience
-### Elinext, 03.2019 - now
+### Elinext, 03.2019 - 12.2019
 * Position: Frontend-developer
 
-### Community Lab, 03.2019 - now
-* Position: Frontend-developer
-* Project: [https://develop--learjs-game.netlify.com/](https://develop--learjs-game.netlify.com/) (in progress)
-* [https://github.com/rss-com-lab/learnJs-game](https://github.com/rss-com-lab/learnJs-game)
-* Responsibilities included:
-   * estimations
-   * implement features
-   * refactorings
-   * backlog grooming
 
 ## Experience
 
 ### Piskel-Clone app
-* Project: [https://greatorangejuice.github.io/piskel-clone/](https://greatorangejuice.github.io/piskel-clone/)
-* Environment: HTML, CSS, JavaScript,  Webpack
+* Deploy: [https://greatorangejuice.github.io/piskel-clone/](https://greatorangejuice.github.io/piskel-clone/)
+* Source: [github](https://github.com/greatorangejuice/tasksFromRSS/tree/piskel-clone)
+* Technologies: HTML, CSS, JavaScript,  Webpack
+* Describtion: Copy of the Piskel app which can create animated pictures
 
 ### Youtube client
-* Project: [https://greatorangejuice.github.io/youtubeBuild/](https://greatorangejuice.github.io/youtubeBuild/)
-* Environment: HTML, CSS, JavaScript, Webpack
-* Pattern: MVC
+* Source [github](https://github.com/greatorangejuice/tasksFromRSS/tree/YouTube-client)
+* Technologies: HTML, CSS, JavaScript, Webpack
+* Patterns: MVC
+* Description: Endless slider with video on demand loading from youtube
+
+### Websocket chat
+* Deploy [https://greatorangejuicechat.netlify.app/](https://greatorangejuicechat.netlify.app/)
+* Source [github](https://github.com/greatorangejuice/tasksFromRSS/tree/rs-chat)
+* Technologies: HTML, CSS, JavaScript, Angular
+* Description: Simple chat 
+
+### DOM Pallete
+* Source [github](https://github.com/greatorangejuice/tasksFromRSS/tree/codejam-dom-pallete)
+* Technologies: HTML, CSS, JavaScript
 
 ### Tasks on CodeWars
 * Link: [https://www.codewars.com/users/greatorangejuice/completed_solutions](https://www.codewars.com/users/greatorangejuice/completed_solutions)
