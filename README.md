@@ -45,6 +45,12 @@ Junior Frontend-developer with technical education. Confident knowledge of HTML,
 * Technologies: HTML, CSS, JavaScript, Angular
 * Description: Simple chat 
 
+### Culture portal
+* Deploy [https://greatorangejuice.github.io/culture-portal/](https://greatorangejuice.github.io/culture-portal/)
+* Source [github](https://github.com/greatorangejuice/culture-portal)
+* Technologies: HTML, CSS, JavaScript, React
+* Description: Small portal about poets of Belarus. Developed by the team.
+
 ### DOM Pallete
 * Source [github](https://github.com/greatorangejuice/tasksFromRSS/tree/codejam-dom-pallete)
 * Technologies: HTML, CSS, JavaScript
